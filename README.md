@@ -1,5 +1,7 @@
 Xcode-Matrix
 ============
+ ![Matrix]("https://github.com/blueless/Xcode-Matrix/blob/master/Matrix.png")
+
  Xcode-Matrix is a Xcode color theme for developers who want to have "ganji"(Korean word for Fxxking cool). You can get your own girl friend as soon as you use this. Be sexy.
 
 ## Installation
